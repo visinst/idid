@@ -6,6 +6,8 @@ KAIST 산업디자인학과의 새로운 로고는 학과의 이름인 I와 D를
 
 The new identity for the KAIST Department of Industrial Design brings together the letters I and D with a circle and a square. The two shapes represent aspects of the discipline: relationships between people and society, and the structures and systems of knowledge through which design operates. Distinct in two dimensions, the shapes can also come together as a single form, appearing as a circle or a square depending on the point of view. The identity holds space for different perspectives and approaches, reflecting the range of ideas and activities that make up the department.
 
+[다운로드 Download](assets/kaist-id-logo.ai?raw=true)
+
 ## 로고의 구조 Construction
 
 ![Cyan guides show the spacing between I and D and the alignment of KAIST with the letter D.](assets/logo/construction.svg)
@@ -20,7 +22,7 @@ The D inside the circle is the same height as the KAIST wordmark. Leave one I-sq
   <img src="assets/logo/wordmark-horizontal.svg" alt="KAIST Industrial Design set on one line." width="49%">
 </p>
 
-[Illustrator 원본 Illustrator source](assets/kaist-id-logo.ai)
+[다운로드 Download](assets/kaist-id-logo.ai?raw=true)
 
 ## 움직임 Motion
 
@@ -34,12 +36,18 @@ Industrial Design의 두 단어가 각각 첫 글자만 남기고 줄어들며 �
   <a href="assets/kaist-id-animation/kaist-id-smooth-inverted.mp4"><img src="assets/previews/smooth-inverted.gif" alt="Smooth motion on black." width="49%"></a>
 </p>
 
+다운로드 Download  
+[Smooth / White](assets/kaist-id-animation/kaist-id-smooth.mp4?raw=true) | [Smooth / Black](assets/kaist-id-animation/kaist-id-smooth-inverted.mp4?raw=true)
+
 **Bouncy**
 
 <p>
   <a href="assets/kaist-id-animation/kaist-id-bouncy.mp4"><img src="assets/previews/bouncy.gif" alt="Bouncy motion on light gray." width="49%"></a>
   <a href="assets/kaist-id-animation/kaist-id-bouncy-inverted.mp4"><img src="assets/previews/bouncy-inverted.gif" alt="Bouncy motion on black." width="49%"></a>
 </p>
+
+다운로드 Download  
+[Bouncy / White](assets/kaist-id-animation/kaist-id-bouncy.mp4?raw=true) | [Bouncy / Black](assets/kaist-id-animation/kaist-id-bouncy-inverted.mp4?raw=true)
 
 ## 입체 In three dimensions
 
