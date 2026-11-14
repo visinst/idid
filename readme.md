@@ -61,7 +61,7 @@ Industrial Design의 두 단어가 각각 첫 글자만 남기고 줄어들며 �
 
 ## 입체 In three dimensions
 
-[![The circular D tips toward the viewer, revealing the I on the side of a cylinder.](assets/previews/form-in-rotation.gif)](assets/3d/3d-presentation.mov)
+<a href="assets/3d/3d-presentation.mov"><img src="assets/previews/form-in-rotation.gif" width="840" alt="The circular D tips toward the viewer, revealing the I on the side of a cylinder."></a>
 
 두 형태는 하나의 입체로 연결되어, 보는 방향에 따라 원이나 사각형으로 보입니다.  
 The two shapes come together as a single form, appearing as a circle or a square depending on the point of view.
