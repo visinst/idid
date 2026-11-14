@@ -33,11 +33,11 @@ Industrial Design의 두 단어가 각각 첫 글자만 남기고 줄어들며 �
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <a href="assets/kaist-id-animation/kaist-id-smooth.mp4"><img src="assets/previews/smooth.gif" alt="Smooth motion on light gray."></a><br>
       <a href="assets/kaist-id-animation/kaist-id-smooth.mp4?raw=true">다운로드 Download</a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%">
       <a href="assets/kaist-id-animation/kaist-id-smooth-inverted.mp4"><img src="assets/previews/smooth-inverted.gif" alt="Smooth motion on black."></a><br>
       <a href="assets/kaist-id-animation/kaist-id-smooth-inverted.mp4?raw=true">다운로드 Download</a>
     </td>
@@ -48,11 +48,11 @@ Industrial Design의 두 단어가 각각 첫 글자만 남기고 줄어들며 �
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <a href="assets/kaist-id-animation/kaist-id-bouncy.mp4"><img src="assets/previews/bouncy.gif" alt="Bouncy motion on light gray."></a><br>
       <a href="assets/kaist-id-animation/kaist-id-bouncy.mp4?raw=true">다운로드 Download</a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%">
       <a href="assets/kaist-id-animation/kaist-id-bouncy-inverted.mp4"><img src="assets/previews/bouncy-inverted.gif" alt="Bouncy motion on black."></a><br>
       <a href="assets/kaist-id-animation/kaist-id-bouncy-inverted.mp4?raw=true">다운로드 Download</a>
     </td>
