@@ -31,33 +31,13 @@ Industrial Design의 두 단어가 각각 첫 글자만 남기고 줄어들며 �
 
 **Smooth**
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="assets/kaist-id-animation/kaist-id-smooth.mp4"><img src="assets/previews/smooth.gif" alt="Smooth motion on light gray."></a><br>
-      <a href="assets/kaist-id-animation/kaist-id-smooth.mp4?raw=true">다운로드 Download</a>
-    </td>
-    <td width="50%">
-      <a href="assets/kaist-id-animation/kaist-id-smooth-inverted.mp4"><img src="assets/previews/smooth-inverted.gif" alt="Smooth motion on black."></a><br>
-      <a href="assets/kaist-id-animation/kaist-id-smooth-inverted.mp4?raw=true">다운로드 Download</a>
-    </td>
-  </tr>
-</table>
+<div><a href="assets/kaist-id-animation/kaist-id-smooth.mp4"><img src="assets/previews/smooth.gif" alt="Smooth motion on light gray." width="50%"></a><a href="assets/kaist-id-animation/kaist-id-smooth-inverted.mp4"><img src="assets/previews/smooth-inverted.gif" alt="Smooth motion on black." width="50%"></a><br>
+<a href="assets/kaist-id-animation/kaist-id-smooth.mp4?raw=true"><img src="assets/previews/download.svg" alt="다운로드 Download — Smooth, light gray" width="50%" height="24"></a><a href="assets/kaist-id-animation/kaist-id-smooth-inverted.mp4?raw=true"><img src="assets/previews/download.svg" alt="다운로드 Download — Smooth, black" width="50%" height="24"></a></div>
 
 **Bouncy**
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="assets/kaist-id-animation/kaist-id-bouncy.mp4"><img src="assets/previews/bouncy.gif" alt="Bouncy motion on light gray."></a><br>
-      <a href="assets/kaist-id-animation/kaist-id-bouncy.mp4?raw=true">다운로드 Download</a>
-    </td>
-    <td width="50%">
-      <a href="assets/kaist-id-animation/kaist-id-bouncy-inverted.mp4"><img src="assets/previews/bouncy-inverted.gif" alt="Bouncy motion on black."></a><br>
-      <a href="assets/kaist-id-animation/kaist-id-bouncy-inverted.mp4?raw=true">다운로드 Download</a>
-    </td>
-  </tr>
-</table>
+<div><a href="assets/kaist-id-animation/kaist-id-bouncy.mp4"><img src="assets/previews/bouncy.gif" alt="Bouncy motion on light gray." width="50%"></a><a href="assets/kaist-id-animation/kaist-id-bouncy-inverted.mp4"><img src="assets/previews/bouncy-inverted.gif" alt="Bouncy motion on black." width="50%"></a><br>
+<a href="assets/kaist-id-animation/kaist-id-bouncy.mp4?raw=true"><img src="assets/previews/download.svg" alt="다운로드 Download — Bouncy, light gray" width="50%" height="24"></a><a href="assets/kaist-id-animation/kaist-id-bouncy-inverted.mp4?raw=true"><img src="assets/previews/download.svg" alt="다운로드 Download — Bouncy, black" width="50%" height="24"></a></div>
 
 ## 입체 In three dimensions
 

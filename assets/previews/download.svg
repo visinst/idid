@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="24">
+  <style>
+    text { fill: #0969da; }
+    @media (prefers-color-scheme: dark) { text { fill: #58a6ff; } }
+  </style>
+  <text x="0" y="17" font-family="system-ui, sans-serif" font-size="14" text-decoration="underline">다운로드 Download</text>
+</svg>
